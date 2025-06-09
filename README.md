@@ -1,8 +1,11 @@
-# 🥔 The Sweet Potato Timer
-
-Welcome to **The Sweet Potato Timer** — your cozy kitchen companion for cooking sweet potatoes *just right*. Whether you’re roasting wedges, mashing them up, or baking them whole, this adorable timer will keep track while you relax (or snack on something else). ⏲️💛
-
 ![Title Banner](assets/title_icon.PNG)
+
+# 🍠 The Potato Clock
+
+Welcome to **The Potato Clock**, your cozy kitchen companion for cooking sweet potatoes *just right*. Whether you’re roasting wedges, mashing them up, or baking them whole, this adorable timer will keep track while you relax. ⏲️
+
+I made this app out of my love for sweet potatoes. They’re cozy, versatile, and full of flavor. I cook them very often, but I always forget how long each of my favorite methods takes.
+That little hiccup inspired me to build a warm and playful timer just for sweet potatoes.💛
 
 ---
 
@@ -11,49 +14,44 @@ Welcome to **The Sweet Potato Timer** — your cozy kitchen companion for cookin
 This Pygame-powered app lets you:
 
 - Choose how you'd like to cook your sweet potato (roasted, mashed, baked)
-- View method and temperature instructions
+- View the method and temperature instructions
 - Start a timer tailored to that cooking method
-- Watch a large, cozy countdown
 - Get a **gentle ding** when time is up!
-- Return to the menu anytime with a sweet "Menu" button
 
-All wrapped in a warm, playful design with custom buttons, icons, and fonts 💫
+All wrapped in a warm, playful design with custom buttons and icons 💫
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Preview
 
 | Menu Screen | Timer Screen |
 |-------------|--------------|
-| ![menu](assets/menu_mockup.png) | ![timer](assets/timer_mockup.png) |
-
-> *(Replace `menu_mockup.png` and `timer_mockup.png` with your real screenshots if you'd like!)*
+| ![menu](assets/menu_preview.png) | ![timer](assets/timer_preview.png) |
 
 ---
 
 ## 🚀 How to Run
 
-### 🧁 Option 1: Download the Zip and Run It
+### Option 1: Download the Zip and Run It
 
-1. Go to the **[Releases](https://github.com/YOUR_USERNAME/Sweet-Potato-Timer/releases)** tab
-2. Download the `.zip` file
-3. Unzip it — make sure `SweetPotatoTimer.exe` is next to the `assets/` folder
-4. **Double-click `SweetPotatoTimer.exe` to start!**
+1. Download the `ThePotatoClock.zip` file  
+2. Unzip it and make sure `ThePotatoClock.exe` is next to the `assets/` folder  
+3. **Double-click `ThePotatoClock.exe` to start!**
 
-> 🪟 Works on Windows. No Python required!
+> Works on Windows.
 
 ---
 
-### 🐍 Option 2: Run Locally with Python
+### Option 2: Run Locally with Python
 
-#### 🔧 Requirements:
+#### Requirements:
 - Python 3.8+
 - `pygame`
 
-#### 💻 Setup:
+#### Setup:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Sweet-Potato-Timer.git
-cd Sweet-Potato-Timer
+git clone https://github.com/YOUR_USERNAME/The-Potato-Clock.git
+cd The-Potato-Clock
 pip install -r requirements.txt
 python main.py
