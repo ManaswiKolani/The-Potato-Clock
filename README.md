@@ -1,9 +1,10 @@
 ![Title Banner](assets/title_icon.PNG)
 
 <h1>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWw0cWNxMGFtdHpzODY1eG9mdTAyYXRkczFxYXB4cTJteGM2bHFiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mPQerpfa41Wdffq40W/giphy.gif" alt="Potato GIF" width="50" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://media.tenor.com/0XuP.gif" alt="Potato GIF" width="50" style="vertical-align: middle; margin-right: 10px;">
   The Potato Clock
 </h1>
+
 
 
 Welcome to **The Potato Clock**, your cozy kitchen companion for cooking sweet potatoes *just right*. Whether you’re roasting wedges, mashing them up, or baking them whole, this adorable timer will keep track while you relax. ⏲️
