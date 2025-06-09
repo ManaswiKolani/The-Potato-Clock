@@ -41,10 +41,8 @@ class MenuScreen:
             btn = entry["button"]
             recipe = entry["label"]
 
-            # Draw the button
             btn.draw(self.screen)
 
-            # Draw label centered below button
             text_surface = self.font.render(recipe, True, (130, 73, 71))
             text_rect = text_surface.get_rect(
                 center=(btn.rect.centerx, btn.rect.bottom + 20)
