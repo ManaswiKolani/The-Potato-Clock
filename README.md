@@ -1,9 +1,10 @@
 ![Title Banner](assets/title_icon.PNG)
 
 <h1>
-  <img src="https://media1.tenor.com/m/sI59a-ngVmoAAAAC/eating-eat.gif" alt="Potato GIF" width="80" style="vertical-align: middle; margin-right: 12px;">
+  <img src="https://www.thiings.co/_next/image?url=https%3A%2F%2Flftz25oez4aqbxpq.public.blob.vercel-storage.com%2Fimage-iA4arQreXQ7MX4JLqq6s0eMbABUMch.png&w=320&q=75" width="400"/>
   The Potato Clock
 </h1>
+
 
 
 
