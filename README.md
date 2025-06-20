@@ -37,18 +37,7 @@ All wrapped in a warm, playful design with custom buttons and icons 💫
 ---
 
 ## 🚀 How to Run
-
-### Option 1: Download the Zip and Run It
-
-1. Download the `ThePotatoClock.zip` file  
-2. Unzip it and make sure `ThePotatoClock.exe` is next to the `assets/` folder  
-3. **Double-click `ThePotatoClock.exe` to start!**
-
-> Works on Windows.
-
----
-
-### Option 2: Run Locally with Python
+### Run Locally with Python
 
 #### Requirements:
 - Python 3.8+
